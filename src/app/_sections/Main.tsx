@@ -34,19 +34,19 @@ export const Main = () => {
         </Button>
         <Link href="#" className="flex items-center justify-between gap-12 w-full">
           <Typography as="span" size="body1">
-            Финал. Матч жизни для "Super Bol" / Скауты на Астана-Арена!
+            Финал. Матч жизни для &quot;Super Bol&quot; / Скауты на Астана-Арена!
           </Typography>
           <ArrowRightIcon />
         </Link>
         <Link href="#" className="flex items-center justify-between gap-12 w-full">
           <Typography as="span" size="body1">
-            Выгнали с команды 3-их игроков после игры с "Jas-Qyran" / Super Bol
+            Выгнали с команды 3-их игроков после игры с &quot;Jas-Qyran&quot; / Super Bol
           </Typography>
           <ArrowRightIcon />
         </Link>
         <Link href="#" className="flex items-center justify-between gap-12 w-full">
           <Typography as="span" size="body1">
-            "Казахстан богат не нефтью, он богат людьми" - Тимур Турлов
+            &quot;Казахстан богат не нефтью, он богат людьми&quot; - Тимур Турлов
           </Typography>
           <ArrowRightIcon />
         </Link>
